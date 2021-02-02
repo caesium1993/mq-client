@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.neris.demo</groupId>
-    <artifactId>kafka-client</artifactId>
+    <artifactId>mq-client</artifactId>
     <version>0.0.1</version>
-    <name>kafka-client</name>
-    <description>Demo project for kafka Client</description>
+    <name>mq-client</name>
+    <description>Demo project for Message Queue Clients</description>
 
     <properties>
         <java.version>1.8</java.version>
